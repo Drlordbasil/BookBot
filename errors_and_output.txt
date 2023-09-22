@@ -1,0 +1,6 @@
+User registration successful.
+Recommended books: ["Harry Potter and the Sorcerer's Stone", 'To Kill a Mockingbird', 'Pride and Prejudice']
+Thank you for your feedback!
+Book details: Book details not found.
+Latest book releases: Failed to retrieve latest releases.
+Popular authors: []
